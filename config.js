@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '陈YFの服务器状态',
+  SiteName: 'Adil的服务器状态',
 
   // 站点链接
   SiteUrl: '/',
@@ -10,7 +10,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur787669-6ddf3a15e1ac21a76a43088c',
+    'u1087794-759ff10e0fc0ea8f450c1125',
   ],
 
   // 是否显示监测站点的链接
@@ -29,7 +29,7 @@ window.Config = {
     },
     {
       text: 'Blog',
-      url: 'https://blog.cyfan.top'
+      url: 'https://adil.com.cn'
     }
   ]
 };
