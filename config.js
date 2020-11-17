@@ -24,10 +24,6 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'SSLstatus',
-      url: 'https://ssl.cyfan.top/'
-    },
-    {
       text: 'Blog',
       url: 'https://adil.com.cn'
     }
